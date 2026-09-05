@@ -1,0 +1,9 @@
+com\MinhaAPi\demo\entities\Categoria.class
+com\MinhaAPi\demo\services\ProdutoService.class
+com\MinhaAPi\demo\DemoApplication.class
+com\MinhaAPi\demo\repositories\ProdutoRepository.class
+com\MinhaAPi\demo\controllers\CategoriaController.class
+com\MinhaAPi\demo\services\CategoriaService.class
+com\MinhaAPi\demo\controllers\ProdutoController.class
+com\MinhaAPi\demo\entities\Produto.class
+com\MinhaAPi\demo\repositories\CategoriaRepository.class
